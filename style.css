@@ -115,6 +115,8 @@ section {
 
 .nav-header {
   background-color: #DEDEDE;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .nav-brand {
