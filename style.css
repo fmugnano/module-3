@@ -5,13 +5,12 @@
 }
 
 h1 {
-	font-family: Brushstroke, fantasy;
+	font-family: Arial;
 	color: #000000;
 }
 
 body {
-	background-image: url("background.jpg");
-	background-color: #FEF5CA;
+	background-color: #DEDEDE;
 
 }
 
@@ -30,28 +29,28 @@ p {
 }
 
 section {
-	border:	1px solid black;
-	background-color: #00FF99;
+	border:	1px black;
+	background-color: #464646;
 	width: 100%;
 	height: auto;
-	font-family: Helvetica;
+	font-family: Arial;
 	color: black;
 	position: relative;
 	overflow: auto;
 }
 
 #chicken {
-	border: 1px solid black;
+	border: 1px black;
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: Georgia,sans-serif;
+	font-family: Arial;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FFFF00;
+	background-color: #FD6412;
 }
 
 #beef {
@@ -59,13 +58,13 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: Georgia,sans-serif;
+	font-family: Arial;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FF1439;
+	background-color: #FFDCA9;
 }
 
 #sushi {
@@ -73,12 +72,12 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: Georgia,sans-serif;
+	font-family: Arial;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
-	background-color: #6495ED;
+	background-color: #E27588;
 	color: white;
 	padding: 5px;
 }
