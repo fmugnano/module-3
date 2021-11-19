@@ -114,12 +114,14 @@ section {
 .navbar-header button.navbar-toggle {
   clear: both;
   margin-top: -30px;
+  text-align: center;
 }
 
 .nav-header {
   background-color: #DEDEDE;
   margin-top: 10px;
   margin-bottom: 10px;
+  text-align: center;
 }
 
 .nav-brand {
@@ -139,4 +141,5 @@ hr {
 .item {
   color: white;
   font-size: 1.2em;
+  text-align: center;
 }
