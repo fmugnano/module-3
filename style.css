@@ -39,17 +39,17 @@ section {
 }
 
 #chicken {
-	border: 1px black;
-	text-align: center;
-	width: 30%;
-	margin-left: 70%;
-	font-family: Arial;
-	font-weight: bold;
-	font-size: 125%;
-	margin-bottom: 0;
-	margin-top: 0;
-	padding: 5px;
-	background-color: #FD6412;
+	  border: 1px black;
+	  text-align: center;
+	  width: 30%;
+	  margin-left: 70%;
+	  font-family: Arial;
+	  font-weight: bold;
+	  font-size: 125%;
+	  margin-bottom: 0;
+	  margin-top: 0;
+	  padding: 5px;
+	  background-color: #FD6412;
 }
 
 #beef {
