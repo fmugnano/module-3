@@ -9,12 +9,6 @@ h1 {
 	color: #000000;
 }
 
-h2 {
-	font-family:Arial;
-	color: #000000;
-	padding: 10px
-}
-
 body {
 	background-color: #DEDEDE;
 }
@@ -42,6 +36,8 @@ section {
 	color: black;
 	position: relative;
 	overflow: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 
 #chicken {
